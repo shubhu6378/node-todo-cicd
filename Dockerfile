@@ -1,4 +1,4 @@
-#This is a docker file
+#This is a docker file.
 FROM node:12.2.0-alpine
 WORKDIR app
 COPY . .
